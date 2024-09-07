@@ -1,3 +1,10 @@
+'''
+ Programmer: Amna(23k-0066)
+ Date: 4/Sept/2024
+ Q7) You need to read "replacement_needed.txt" file. This file has one mistake. One letter needs to be replaced with other letter then this sentence might have some meaning. Replace this letter with the desired one making logic yourself without using any library. 
+     Write your code in function and call that function. Handle all possible exceptions as well.
+'''
+
 def correct_file_content(wrong_char, correct_char):
     try:
         with open("replacement_needed.txt", "r") as file:

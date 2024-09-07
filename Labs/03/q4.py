@@ -1,3 +1,10 @@
+'''
+ Programmer: Amna(23k-0066)
+ Date: 4/Sept/2024
+ Q4) Take biodata of employee from user as Name, cnic number, age, and salary save it in txt file. Now append this file to add contact number. Finally read this file.
+     Handle all possible exceptions as well.
+'''
+
 name = input("Enter your name: ")
 cnic_number = input("Enter your CNIC number: ")
 age = input("Enter your age: ")

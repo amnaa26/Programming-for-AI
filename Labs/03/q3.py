@@ -1,3 +1,10 @@
+'''
+ Programmer: Amna(23k-0066)
+ Date: 4/Sept/2024
+ Q3) Write a python program that takes any two lists from user having same number of elements. Make a dictionary from these two lists in such a way that first element of first list will be key and first element of second list will be its associated value and so on. Store the dictionary in a text file. Handle all possible exceptions as well.
+     Note: do not use any library. Make logic yourself.
+'''
+
 user_list1 = list(input("Enter values for list1: "))
 user_list2 = list(input("Enter values for list2: "))
 

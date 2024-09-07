@@ -1,3 +1,11 @@
+'''
+ Programmer: Amna(23k-0066)
+ Date: 4/Sept/2024
+ Q2) Create a program that reads a text file, searches for a specified word or phrase, and replaces all occurrences with another word or phrase. 
+     Write the modified content back to the file. Handle all possible exceptions as well.
+'''
+
+
 def replace_word(file_name, old_word, new_word):
     try:
         with open(file_name, 'r') as file:

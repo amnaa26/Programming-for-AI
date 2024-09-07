@@ -1,3 +1,9 @@
+'''
+ Programmer: Amna(23k-0066)
+ Date: 4/Sept/2024
+ Q6) Create a function that asks the user to enter a sentence then writes the sentence to a text file named "questions.txt" if it's a question. 
+     Handle all possible exceptions as well.
+'''
 
 user = input("Enter a sentence: ")
 filename = 'question.txt'

@@ -1,0 +1,5 @@
+Python is a high-level, interpreted programming language known for its readability and simplicity. It supports multiple programming paradigms, including procedural, object-oriented, and functional programming. Python's syntax is clean and its code is easy to understand, making it a popular choice for beginners and experienced developers alike. It has a rich standard library and extensive third-party modules, which make it versatile for various applications like web development, data analysis, artificial intelligence, and automation.
+Python has a built-in package called JSON, which can be used to work with JSON data.
+JavaScript Object Notation (JSON) is a standardized format commonly used to transfer data as
+text that can be sent over a network. It's used by lots of APIs and Databases, and it's easy for
+both humans and machines to read.{'1': '5', '2': '6', '3': '7', '4': '8'}

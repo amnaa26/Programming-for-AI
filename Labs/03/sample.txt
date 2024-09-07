@@ -1,0 +1,5 @@
+Name: Amna
+CNIC Number: 42301-7894567-0
+Age: 19
+Salary: 2400000000000
+Contact number: 03303766089

@@ -1,3 +1,11 @@
+'''
+ Programmer: Amna(23k-0066)
+ Date: 4/Sept/2024
+ Q5) Take input from user below dictionary having name and age pair. Save this dictionary in json file. Now load this json file and Print name of person having maximum age and also print if anyone has the same age by making logic yourself without using any library:
+     dictionary = {'Ali': 23,'Saad':24,'Salman':15,'Shams':25,'Sadiq':46,'Hammad':23'}
+     Handle all possible exceptions as well.
+'''
+
 import json
 
 dictionary = {}
